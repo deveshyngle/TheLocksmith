@@ -1,0 +1,9 @@
+c:\users\devesh\documents\visual studio 2015\Projects\TheLocksmith\TheLocksmith\bin\Debug\TheLocksmith.exe.config
+c:\users\devesh\documents\visual studio 2015\Projects\TheLocksmith\TheLocksmith\bin\Debug\TheLocksmith.exe
+c:\users\devesh\documents\visual studio 2015\Projects\TheLocksmith\TheLocksmith\bin\Debug\TheLocksmith.pdb
+c:\users\devesh\documents\visual studio 2015\Projects\TheLocksmith\TheLocksmith\obj\Debug\TheLocksmith.csprojResolveAssemblyReference.cache
+c:\users\devesh\documents\visual studio 2015\Projects\TheLocksmith\TheLocksmith\obj\Debug\TheLocksmith.Properties.Resources.resources
+c:\users\devesh\documents\visual studio 2015\Projects\TheLocksmith\TheLocksmith\obj\Debug\TheLocksmith.csproj.GenerateResource.Cache
+c:\users\devesh\documents\visual studio 2015\Projects\TheLocksmith\TheLocksmith\obj\Debug\TheLocksmith.exe
+c:\users\devesh\documents\visual studio 2015\Projects\TheLocksmith\TheLocksmith\obj\Debug\TheLocksmith.pdb
+c:\users\devesh\documents\visual studio 2015\Projects\TheLocksmith\TheLocksmith\obj\Debug\TheLocksmith.MainWindow.resources
