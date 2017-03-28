@@ -1,7 +1,7 @@
 # TheLocksmith
 
 A C# Application to Encrypt/Decrypt data in popular Crypto Algorithms.
-Download executable (.exe) [here!](https://github.com/deveshyngle/TheLocksmith/releases/tag/0.0.1)
+Download executable (.exe) [here!](https://github.com/deveshyngle/TheLocksmith/releases)
 
     v0.0.1
             1)Implemented Rjindael256 Encryption Algorithm.
